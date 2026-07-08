@@ -21,7 +21,7 @@ Passionate about building reliable software through testing, automation, and low
 
 ## `> 💻 Tech Stack`
 
-**Languages**
+**Developemnt & QA**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,html,java,selenium,postman,gherkin,jenkins,mysql,wordpress" />
@@ -31,7 +31,7 @@ Passionate about building reliable software through testing, automation, and low
 **Tools & Platforms**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,discord,eclipse,github,idea,linux,obsidian,vscode" />
+    <img src="https://skillicons.dev/icons?i=arch,eclipse,github,idea,linux,obsidian,vscode" />
   </a>
 </p>
 
@@ -114,7 +114,9 @@ Email    : hariharan.16@yahoo.com
 Status   : Open to Work & Freelancing 🟢
 
 hariharan@github:~$ logout
-Connection closed. Thanks for stopping by 👋
+
+Connection closed.
+Thanks for stopping by 👋
 ```
 
 ---
