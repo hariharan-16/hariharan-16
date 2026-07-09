@@ -45,7 +45,6 @@ hariharan@github:~$ whoami
 Name      : Hariharan
 Username  : hariharan-16
 Role      : Software Tester
-Specialty : QA Automation & Low-Code Development
 Location  : Tamil Nadu, India
 Expertise : QA Automation • Low-Code Development
 Status    : Open to Work ✅
@@ -99,7 +98,6 @@ hariharan@github:~$ ls ~/roadmap
 playwright-framework/
 api-testing/
 jmeter-performance-testing/
-shopify-store/
 ```
 
 ---
