@@ -52,11 +52,6 @@ Status    : Open to Work ✅
 
 ---
 
-## `> 📊 GitHub Statistics`
-[![GitHub Streak](https://streak-stats.demolab.com?user=hariharan-16)](https://git.io/streak-stats)
-
----
-
 ## `> 🐍 Contribution Graph`
 [![Hariharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
