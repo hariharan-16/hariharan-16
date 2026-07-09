@@ -65,10 +65,10 @@ Status    : Open to Work ✅
 ## `> 🚀 Projects`
 | Project | Status | Stack |
 | :------ | :----: | :---- |
-| [**⬡ Xlorit Website**](https://www.xlorit.com)|✅ Completed|`WordPress` `Elementor`|
-| Selenium Framework| 🚧 In progress| `Selenium` `TestNG` `POM`|
-| OrangeHRM Automation| 🚧 In progress| `Selenium` `TestNG` `POM`|
-| Portfolio Website| 🚧 In progress| `WordPress` `Elementor`|
+| [**⬡ Xlorit Website**](https://www.xlorit.com)|✅ Completed |`WordPress` `Elementor`|
+| [**⬡ Selenium Automation Framework**](https://github.com/hariharan-16/SeleniumAutomationFramework) | ✅ Completed | `Selenium` `TestNG` `POM`|
+| OrangeHRM Automation| 🚧 In progress | `Selenium` `TestNG` `POM`|
+| Portfolio Website| 🚧 In progress | `WordPress` `Elementor`|
 
 ---
 
